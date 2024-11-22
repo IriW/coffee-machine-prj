@@ -3,8 +3,8 @@
 This project is the **Day 15 challenge** from the Udemy course **"100 Days of Code: The Complete Python Pro Bootcamp"** by Dr. Angela Yu. 
 The code differs from the solution proposed by the course author and provides similar functionality with additional error handling.
 
-      NOTE: The program is basic and functional just enough, to allow further development of features and extra error handling which is planned to be used for deployment automation pipelines set up (by me).
-      The code in this form it should not be treated as 100% production solution!
+_NOTE: The program is basic and functional just enough, to allow further development of features and extra error handling which is planned to be used for deployment automation pipelines set up (by me)._
+_The code should not be treated as production solution!_
 
 It is a basic Coffee Machine program that allows users to:
 
